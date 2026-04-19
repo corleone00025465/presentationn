@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Jiang Minghao/Scenes/ForestLevel_Jiang Minghao.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
